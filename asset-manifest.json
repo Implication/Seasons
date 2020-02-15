@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Implication/Seasons/static/css/main.d1b05096.chunk.css",
-    "main.js": "/Implication/Seasons/static/js/main.424e9512.chunk.js",
-    "main.js.map": "/Implication/Seasons/static/js/main.424e9512.chunk.js.map",
-    "runtime-main.js": "/Implication/Seasons/static/js/runtime-main.caf9dcbf.js",
-    "runtime-main.js.map": "/Implication/Seasons/static/js/runtime-main.caf9dcbf.js.map",
-    "static/js/2.c3dbecdc.chunk.js": "/Implication/Seasons/static/js/2.c3dbecdc.chunk.js",
-    "static/js/2.c3dbecdc.chunk.js.map": "/Implication/Seasons/static/js/2.c3dbecdc.chunk.js.map",
-    "index.html": "/Implication/Seasons/index.html",
-    "precache-manifest.6b565b0a1ebe5c99cbdce70e448bbc6d.js": "/Implication/Seasons/precache-manifest.6b565b0a1ebe5c99cbdce70e448bbc6d.js",
-    "service-worker.js": "/Implication/Seasons/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/Implication/Seasons/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.c3dbecdc.chunk.js.LICENSE.txt": "/Implication/Seasons/static/js/2.c3dbecdc.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/Implication/Seasons/static/media/logo.5d5d9eef.svg"
+    "main.css": "/Seasons/static/css/main.d1b05096.chunk.css",
+    "main.js": "/Seasons/static/js/main.e2b2befe.chunk.js",
+    "main.js.map": "/Seasons/static/js/main.e2b2befe.chunk.js.map",
+    "runtime-main.js": "/Seasons/static/js/runtime-main.123ceada.js",
+    "runtime-main.js.map": "/Seasons/static/js/runtime-main.123ceada.js.map",
+    "static/js/2.c3dbecdc.chunk.js": "/Seasons/static/js/2.c3dbecdc.chunk.js",
+    "static/js/2.c3dbecdc.chunk.js.map": "/Seasons/static/js/2.c3dbecdc.chunk.js.map",
+    "index.html": "/Seasons/index.html",
+    "precache-manifest.d82944343f97ec1b8e5889dbded8cc07.js": "/Seasons/precache-manifest.d82944343f97ec1b8e5889dbded8cc07.js",
+    "service-worker.js": "/Seasons/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/Seasons/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.c3dbecdc.chunk.js.LICENSE.txt": "/Seasons/static/js/2.c3dbecdc.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Seasons/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.caf9dcbf.js",
+    "static/js/runtime-main.123ceada.js",
     "static/js/2.c3dbecdc.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.424e9512.chunk.js"
+    "static/js/main.e2b2befe.chunk.js"
   ]
 }
